@@ -8,6 +8,6 @@ Para rodar a aplicação será necessário instalar o seguinte comando:
 ```
 <npm install> 
 ```
-Pois foi utilizada a biblioteca prompt-sync para gerar as perguntas e apresentar a mensagem final.
+Pois foi utilizada a biblioteca prompt-sync para gerar as perguntas, compilar as respostas e apresentar a mensagem final.
 
 
